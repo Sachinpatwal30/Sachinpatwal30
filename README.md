@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Patwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" width="400" src="[https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif](https://jaredmezz.com/programmer-transparent.gif)" alt="coding">
+<img align="right" width="400" src="https://jaredmezz.com/programmer-transparent.gif" alt="coding">
 
 - 💬 Ask me about **React, JavaScript, Nodejs, Mongodb, Express, Bootstrap C++**
 
