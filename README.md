@@ -52,6 +52,9 @@
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"
             alt="cplusplus" width="40" height="40" /> </a>  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinpatwal30&show_icons=true&locale=en&layout=compact" alt="sachinpatwal30" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinpatwal30&show_icons=true&locale=en" alt="sachinpatwal30" /></p>
+<p align="center">
+  <img height="50%" alt="stats" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sachinpatwal30&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinpatwal30&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  
+  <br>
+</p>
