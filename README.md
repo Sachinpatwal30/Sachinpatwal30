@@ -3,7 +3,7 @@
 
 <img align="right" width="400" src="https://jaredmezz.com/programmer-transparent.gif" alt="coding">
 
-- 💬 Ask me about **React, JavaScript, Nodejs, Mongodb, Express, Bootstrap C++**
+- 💬 Ask me about **React, JavaScript, Nodejs, Mongodb, Express, Bootstrap, C++**
 
 - 📫 How to reach me **sachinpatwal30@gmail.com**
 
