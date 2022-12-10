@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sachin Patwal</h1>
+<h1 align="center" style={color="orange"} >Hi 👋, I'm Sachin Patwal</h1>
 <h3 align="center">A passionate M.E.R.N Stack Developer from India</h3>
 
 <img align="right" width="400" src="https://jaredmezz.com/programmer-transparent.gif" alt="coding">
